@@ -4,7 +4,7 @@
 This project is a replication of an RNA seq analysis of lncRNA’s in human pancreatic islets and β-cells, with the goal of uncovering interesting insights about the expression of those cells that correspond with those of the original study. The analysis was performed in Linux Bash utilizing famous cli tools used in RNA seq analyses. An extensive review of the operations performed and the corresponding results is presented in the Report file. 
 
 # Datasets
-The original study from which the data were derived was the following: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3475176/ . The data were downloaded from "ebi.ac.uk" and were were FASTQ files from a transcriptome analysis of lncRNA’s in human pancreatic islets and β-cells. There were four files in total, two for each sample. They were paired end data with each part of the file being the left or right read.  The original study defined 1128 islet lncRNA genes, showing them to be an integral component of the dynamic β-cell specific differentiation program.
+The original study from which the data were derived was the following: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3475176/. The data were downloaded from "ebi.ac.uk" and were were FASTQ files from a transcriptome analysis of lncRNA’s in human pancreatic islets and β-cells. There were four files in total, two for each sample. They were paired end data with each part of the file being the left or right read.  The original study defined 1128 islet lncRNA genes, showing them to be an integral component of the dynamic β-cell specific differentiation program.
 
 # Methods
 A typical RNA seq analysis scheme was followed for most of the analysis. The operations performed (in order of performance) were:
