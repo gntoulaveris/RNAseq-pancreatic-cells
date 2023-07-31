@@ -5,6 +5,7 @@ This project is a replication of an RNA seq analysis of lncRNA’s in human panc
 
 # Datasets
 The original study from which the data were derived was the following: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3475176/. 
+
 The data were downloaded from "ebi.ac.uk" and were were FASTQ files from a transcriptome analysis of lncRNA’s in human pancreatic islets and β-cells. There were four files in total, two for each sample. They were paired end data with each part of the file being the left or right read.  The original study defined 1128 islet lncRNA genes, showing them to be an integral component of the dynamic β-cell specific differentiation program.
 
 # Methods
